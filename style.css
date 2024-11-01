@@ -1,0 +1,112 @@
+h1 {
+    color: rgb(74, 68, 133);
+    font-size: 3rem;
+    font-style: italic;
+    margin: 10px auto 20px auto;
+    font-family: "IBM Plex Mono", monospace;
+}
+h2 {
+    color: rgb(74, 68, 133);
+    font-size: 2rem;
+    font-style:normal;
+    margin: 0px auto 0px auto;
+    font-family: "IBM Plex Mono", monospace;
+}
+h3 {
+    color: rgb(74, 68, 133);
+    font-size: 1.2rem;
+    font-style:bold;
+    margin: 0px auto 0px auto;
+    font-family: "IBM Plex Mono", monospace;
+}
+.div1 {
+    background-color: rgb(218, 218, 243); 
+    margin-top: 0px;
+    text-align: center;
+}
+.LMQ {
+    width: 400px;
+    margin-top: 80px;
+    position: relative;
+    margin-bottom: 20px;
+    
+}
+.PC {
+    width: 100px;
+    position: relative;
+    
+}
+.header {
+    width: 90%;
+    position: relative;
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+.cars1 {
+    width: 90%;
+    position: relative;
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+.tbrace {
+    font-size: 1.3rem;
+    font-variant: small-caps;
+    text-decoration: underline;
+    color: red;
+    font-family: "IBM Plex Mono", monospace;
+}
+.div2 {
+    background-color: white; 
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 0px;
+    margin: 0px 0px;
+    text-align: center;
+}
+p {
+    font-size: 1.25rem;
+    font-style: italic;
+    margin: 0px auto 0px auto;
+    color: rgb(158, 145, 145);
+    font-family: "IBM Plex Mono", monospace;
+}
+.BWR {
+    width: 100px;
+    position: relative;  
+}
+.Elgin {
+    width: 100px;
+    margin-top: 0px;
+
+    margin-bottom: 0px;    
+}
+.Hamilton {
+    width: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;    
+}
+.div3 {
+    padding-top: 50px;
+    text-align: center;
+    background-color: rgb(218, 218, 243); 
+    padding-bottom: 100px;
+}
+.div3 h2 {
+    color: rgb(74, 68, 133);
+    font-size: 3rem;
+    font-style: italic;
+    margin: 0px auto 0px auto;
+    font-family: "IBM Plex Mono", monospace;  
+}
+.gridelements {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    row-gap: 2rem;
+}
+
+
+
